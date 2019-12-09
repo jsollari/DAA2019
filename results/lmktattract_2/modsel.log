@@ -1,0 +1,13 @@
+consensus of 4-../results/lmktattract_2/modsel_rep1_1
+Method: g / Fitting: lm / IC used: aicc
+Level: 1 / Marginality: FALSE
+From 100 models:
+Best IC: 177.740673043411
+Best model:
+[1] "lmktm_Total ~ 1 + emp_Y15_24_NaceB_E + emp_Y25_64_NaceK + emp_Y25_64_NaceL"
+Evidence weight: 0.0968033462655723
+Worst IC: 189.117000090488
+3 models within 2 IC units.
+59 models to reach 95% of evidence weight.
+Convergence after 330 generations.
+Time elapsed: 0.546000003814697 minutes.

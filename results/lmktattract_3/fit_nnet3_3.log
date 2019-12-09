@@ -1,0 +1,21 @@
+Neural Network 
+
+167 samples
+  2 predictor
+  2 classes: '0', '1' 
+
+No pre-processing
+Resampling: Bootstrapped (25 reps) 
+Summary of sample sizes: 167, 167, 167, 167, 167, 167, ... 
+Resampling results across tuning parameters:
+
+  size  Accuracy   Kappa    
+  1     0.8561052  0.7080042
+  2     0.8541117  0.7038745
+  3     0.8535696  0.7029959
+  4     0.8549490  0.7059662
+  5     0.8542593  0.7044507
+
+Tuning parameter 'decay' was held constant at a value of 0.3
+Accuracy was used to select the optimal model using the largest value.
+The final values used for the model were size = 1 and decay = 0.3.
