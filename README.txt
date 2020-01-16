@@ -1,7 +1,7 @@
 #autor:      Joao Sollari Lopes
 #local:      INE, Lisboa
 #criado:     09.12.2019
-#modificado: 09.12.2019
+#modificado: 16.01.2020
 
 +bin
   |decision_rule.r                      #aplicar regras de decisao
@@ -35,7 +35,7 @@
   |DAA2019_JL_slides.pdf                #slides [versao final]
   |DAA2019_JL_solutions.pdf             #exercicios [versao final]
   |DAA2019_programa.pdf                 #programa [versao final]
-  |DAA2019_JL_slides_20191126.pptx      #slides [v2019-11-26]
+  |DAA2019_JL_slides_20191217.pptx      #slides [v2019-12-17]
 +images
 +results
   +lmktattract_1                        #resultados da aplicacao pratica 1 de Data Analytics
